@@ -1,2 +1,2 @@
-# clear
-A comprehensive list of emergency amateur radio frequencies
+# C.L.E.A.R. Frequencies
+## Comprehensive List of Emergency Amateur Radio Frequencies
